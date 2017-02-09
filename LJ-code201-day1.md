@@ -1,7 +1,13 @@
 # hello, This is My Code Journal
 
 ----
-##  LJ Code 201 - Day 1
+##  LJ Code 201 - Day 2
 
 
 > Today I felt like I'm getting wayyy more comfortable using Git. Also my arch nemesis the command line is very quickly warming up to me and becoming my best friend. I love how much quicker I can work using the command line and getting really used to it although I still have to look at my notes for some of the commands. Overall it was fun to build out my first small app and I went a little beyond what the class entailed. 
+
+----
+##  LJ Code 201 - Day 3
+
+
+> Wow today was alot harder than what I imagined it would be. Overall I was able to complete the lesson and learned alot. One thing I learned was to definitly debug using your console. I would have finished about 30 minutes sooner if I used the console more. Also I learned there are some differences in using the operator == and ===. Still have not fully finished my css template but I'm getting close and should be 100% done by tomorrow. 
