@@ -10,4 +10,10 @@
 ##  LJ Code 201 - Day 3
 
 
-> Wow today was alot harder than what I imagined it would be. Overall I was able to complete the lesson and learned alot. One thing I learned was to definitly debug using your console. I would have finished about 30 minutes sooner if I used the console more. Also I learned there are some differences in using the operator == and ===. Still have not fully finished my css template but I'm getting close and should be 100% done by tomorrow. 
+> Wow today was alot harder than what I imagined it would be. Overall I was able to complete the lesson and learned alot. One thing I learned was to definitly debug using your console. I would have finished about 30 minutes sooner if I used the console more. Also I learned there are some differences in using the operator == and ===. Still have not fully finished my css template but I'm getting close and should be 100% done by tomorrow.
+
+----
+##  LJ Code 201 - Day 4
+
+
+> Day four went really easily actually me and Michele pair programmed. It was my first time pair programming and it wasn't as easy as I thought. However it forced us to collaborate and I ended up learning alot of new commands to help speed up my workflow. Also we struggled alot through Git but Amy helped explain alot and slowly but surely I'm starting to understand it.  
