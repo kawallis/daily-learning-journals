@@ -17,3 +17,9 @@
 
 
 > Day four went really easily actually me and Michele pair programmed. It was my first time pair programming and it wasn't as easy as I thought. However it forced us to collaborate and I ended up learning alot of new commands to help speed up my workflow. Also we struggled alot through Git but Amy helped explain alot and slowly but surely I'm starting to understand it.  
+
+----
+##  LJ Code 201 - Day 5
+
+
+> Day five.. WOW! went crazy trying to solve functions within functions. It was actually kinda fun once I got it going. I was given a problem similar in a Hackathon back in college and was not able to solve it so it was nice figuring it out. 
