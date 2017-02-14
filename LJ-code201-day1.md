@@ -23,3 +23,10 @@
 
 
 > Day five.. WOW! went crazy trying to solve functions within functions. It was actually kinda fun once I got it going. I was given a problem similar in a Hackathon back in college and was not able to solve it so it was nice figuring it out. 
+
+
+----
+##  LJ Code 201 - Day 6
+
+
+> Today was by far my favorite lesson so far. Although I have experience coding objects were always a struggle for me back in college. It was awesome getting the concept solidified in my mind and I was able to complete the lab fairly quickly. The last thing that I need to figure out is constructors but I think we are doing that tomorrow. I feel super confident going forward and hope everything else is as clear as its been so far. 
