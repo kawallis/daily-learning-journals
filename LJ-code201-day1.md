@@ -30,3 +30,8 @@
 
 
 > Today was by far my favorite lesson so far. Although I have experience coding objects were always a struggle for me back in college. It was awesome getting the concept solidified in my mind and I was able to complete the lab fairly quickly. The last thing that I need to figure out is constructors but I think we are doing that tomorrow. I feel super confident going forward and hope everything else is as clear as its been so far. 
+
+----
+##  LJ Code 201 - Day 7
+
+>WOW WOW todays was crazy. I'm honestly surprised I was able to solve the bottom row problem fairly quickly. However I'm not sure I did it in the best way so curious how Aaron would do it. Tomorrow I'm hyped to start styling my page because as of now it looks sooo bad. 
